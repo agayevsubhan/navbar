@@ -1,0 +1,20 @@
+nav{
+    background-color:rgba(54, 2, 2, 0.712) ;
+    ul{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        li{
+            list-style-type: none;
+        }
+        a{
+            text-decoration: none;
+            margin: 10px;
+            color: white;
+        }
+        .lia{
+            font-size: 30px;
+            color: white;
+        }
+    }
+}
